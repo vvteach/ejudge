@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "contests/003005. Параллель D. Матрицы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "003005. Параллель D. Матрицы"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contests/201814. Тренировка к всеросу 7. Кто не решит геому, тот из Саратова.md",
+                "file": "View contest.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "201814. Тренировка к всеросу 7. Кто не решит геому, тот из Саратова"
+              "title": "View contest"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 268.5
   },
   "right": {
     "id": "ad1689df2c68635d",
@@ -214,8 +214,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "645e8eb2acd54acf",
+  "active": "06533f5ad4efc04e",
   "lastOpenFiles": [
+    "000017. Летний Контест ФМШ 2007.md",
+    "contests/004504. Параллель A. Динамика.md",
+    "tasks/informatics/492.md",
+    "Контесты.md",
+    "contests/003006. Параллель D. Строки.md",
+    "contests/000220. Test contest.md",
+    "Статистика.md",
+    "View contest.md",
+    "Contest 203126.md",
+    "contests/003005. Параллель D. Матрицы.md",
+    "contests/003990. Юзеры майской школ.md",
+    "contests/201814. Тренировка к всеросу 7. Кто не решит геому, тот из Саратова.md",
+    "github.com/vv-teach",
+    "github.com",
     "obsidan-ejudge.zip",
     "contests/500032. 8prof. Рекурсия-2.md",
     "contests/500031. Best contest ever.md",
@@ -231,17 +245,6 @@
     "contests/500018. 8prof. Списки почти в одну строку.md",
     "contests/500017. Letovo orientation.md",
     "contests/500013. Template.md",
-    "contests/500010. Fun Contest VKOSHP.Junior.md",
-    "contests/500002. Январская школа Летово 2020 - Темплейт.md",
-    "contests/500001. Template.md",
-    "contests/500000. last.md",
-    "contests/301700. Группа 4. Декартово дерево.md",
-    "contests/300804. Олимпиадная информатика-5. Занятие 5. Декартово дерево по неявному ключу.md",
-    "contests/300801. Олимпиадная информатика-5. Занятие 2. Heavy-light декомпозиция.md",
-    "contests/300610. Олимпиадная информатика-3. Занятие 10. Дерево отрезков. 2D задачи.md",
-    "contests/300609. Олимпиадная информатика-3. Занятие 10. Дерево отрезков. Массовые операции.md",
-    "contests/300608. Олимпиадная информатика-3. Занятие 9. Структуры данных.md",
-    "contests/300606. Олимпиадная информатика-3. Занятие 7. Графы. Топологическая сортировка.md",
     "templates.zip",
     "tasks/attachments/letovo_203160_G_statement.xml",
     "tasks/attachments/letovo_203160_F_statement.xml",
@@ -249,7 +252,6 @@
     "tasks/attachments/letovo_203160_D_statement.xml",
     "tasks/attachments/letovo_203160_C_statement.xml",
     "tasks/attachments/letovo_203160_B_statement.xml",
-    "tasks/attachments/letovo_203160_A_statement.xml",
     "tasks/attachments/letovo_203160_G_01a.png",
     "tasks/attachments/letovo_203160_G_01.png",
     "tasks/attachments/letovo_203160_A_01.png",
@@ -259,8 +261,6 @@
     "tasks/attachments/letovo_203160_E_01.png",
     "tasks/attachments/letovo_203160_D_01a.png",
     "tasks/attachments/letovo_203160_D_01.png",
-    "tasks/attachments/letovo_203160_C_01a.png",
-    "tasks/attachments",
-    "tasks/letovo"
+    "tasks/attachments/letovo_203160_C_01a.png"
   ]
 }
